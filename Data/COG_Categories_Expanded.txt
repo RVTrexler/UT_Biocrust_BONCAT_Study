@@ -1,0 +1,150 @@
+COG_Category_ID	COG_Category_1_Annotation	COG_Category_2_Annotation	COG_Category_3_Annotation	COG_Category_4_Annotation
+A	RNA processing and modification	None	None	None
+B	Chromatin structure and dynamics	None	None	None
+C	Energy production and conversion	None	None	None
+CE	Energy production and conversion	Amino acid transport and metabolism	None	None
+CHR	Energy production and conversion	Coenzyme transport and metabolism	General function prediction only	None
+CI	Energy production and conversion	Lipid transport and metabolism	None	None
+CIR	Energy production and conversion	Lipid transport and metabolism	None	None
+CO	Energy production and conversion	"Posttranslational modification, protein turnover, chaperones"	None	None
+CP	Energy production and conversion	Inorganic ion transport and metabolism	None	None
+CPO	Energy production and conversion	Inorganic ion transport and metabolism	"Posttranslational modification, protein turnover, chaperones"	None
+CR	Energy production and conversion	General function prediction only	None	None
+CT	Energy production and conversion	Signal transduction mechanisms	None	None
+D	"Cell cycle control, cell division, chromosome partitioning"	None	None	None
+DE	"Cell cycle control, cell division, chromosome partitioning"	Amino acid transport and metabolism	None	None
+DH	"Cell cycle control, cell division, chromosome partitioning"	Coenzyme transport and metabolism	None	None
+DI	"Cell cycle control, cell division, chromosome partitioning"	Lipid transport and metabolism	None	None
+DL	"Cell cycle control, cell division, chromosome partitioning"	"Replication, recombination and repair"	None	None
+DM	"Cell cycle control, cell division, chromosome partitioning"	Cell wall/membrane/envelope biogenesis	None	None
+DN	"Cell cycle control, cell division, chromosome partitioning"	Cell motility	None	None
+DP	"Cell cycle control, cell division, chromosome partitioning"	Inorganic ion transport and metabolism	None	None
+DPM	"Cell cycle control, cell division, chromosome partitioning"	Inorganic ion transport and metabolism	Cell wall/membrane/envelope biogenesis	None
+DR	"Cell cycle control, cell division, chromosome partitioning"	General function prediction only	None	None
+DZ	"Cell cycle control, cell division, chromosome partitioning"	Cytoskeleton	None	None
+E	Amino acid transport and metabolism	None	None	None
+EF	Amino acid transport and metabolism	Nucleotide transport and metabolism	None	None
+EG	Amino acid transport and metabolism	Carbohydrate transport and metabolism	None	None
+EH	Amino acid transport and metabolism	Coenzyme transport and metabolism	None	None
+EHJQ	Amino acid transport and metabolism	Coenzyme transport and metabolism	"Translation, ribosomal structure and biogenesis"	"Secondary metabolites biosynthesis, transport and catabolism"
+EM	Amino acid transport and metabolism	Cell wall/membrane/envelope biogenesis	None	None
+EP	Amino acid transport and metabolism	Inorganic ion transport and metabolism	None	None
+EQ	Amino acid transport and metabolism	"Secondary metabolites biosynthesis, transport and catabolism"	None	None
+ER	Amino acid transport and metabolism	General function prediction only	None	None
+ET	Amino acid transport and metabolism	Signal transduction mechanisms	None	None
+F	Nucleotide transport and metabolism	None	None	None
+FH	Nucleotide transport and metabolism	Coenzyme transport and metabolism	None	None
+FJ	Nucleotide transport and metabolism	"Translation, ribosomal structure and biogenesis"	None	None
+FL	Nucleotide transport and metabolism	"Replication, recombination and repair"	None	None
+FM	Nucleotide transport and metabolism	Cell wall/membrane/envelope biogenesis	None	None
+FP	Nucleotide transport and metabolism	Inorganic ion transport and metabolism	None	None
+FR	Nucleotide transport and metabolism	General function prediction only	None	None
+FT	Nucleotide transport and metabolism	Signal transduction mechanisms	None	None
+FV	Nucleotide transport and metabolism	Defense mechanisms	None	None
+G	Carbohydrate transport and metabolism	None	None	None
+GEPR	Carbohydrate transport and metabolism	Amino acid transport and metabolism	Inorganic ion transport and metabolism	General function prediction only
+GER	Carbohydrate transport and metabolism	Amino acid transport and metabolism	General function prediction only	None
+GH	Carbohydrate transport and metabolism	Coenzyme transport and metabolism	None	None
+GHR	Carbohydrate transport and metabolism	Coenzyme transport and metabolism	General function prediction only	None
+GI	Carbohydrate transport and metabolism	Lipid transport and metabolism	None	None
+GK	Carbohydrate transport and metabolism	Transcription	None	None
+GM	Carbohydrate transport and metabolism	Cell wall/membrane/envelope biogenesis	None	None
+GP	Carbohydrate transport and metabolism	Inorganic ion transport and metabolism	None	None
+GT	Carbohydrate transport and metabolism	Signal transduction mechanisms	None	None
+H	Coenzyme transport and metabolism	None	None	None
+HC	Coenzyme transport and metabolism	Energy production and conversion	None	None
+HE	Coenzyme transport and metabolism	Amino acid transport and metabolism	None	None
+HI	Coenzyme transport and metabolism	Lipid transport and metabolism	None	None
+HJ	Coenzyme transport and metabolism	"Translation, ribosomal structure and biogenesis"	None	None
+HO	Coenzyme transport and metabolism	"Posttranslational modification, protein turnover, chaperones"	None	None
+HP	Coenzyme transport and metabolism	Inorganic ion transport and metabolism	None	None
+HQ	Coenzyme transport and metabolism	"Secondary metabolites biosynthesis, transport and catabolism"	None	None
+HR	Coenzyme transport and metabolism	General function prediction only	None	None
+HT	Coenzyme transport and metabolism	Signal transduction mechanisms	None	None
+HV	Coenzyme transport and metabolism	Defense mechanisms	None	None
+I	Lipid transport and metabolism	None	None	None
+IQ	Lipid transport and metabolism	"Secondary metabolites biosynthesis, transport and catabolism"	None	None
+IR	Lipid transport and metabolism	General function prediction only	None	None
+J	"Translation, ribosomal structure and biogenesis"	None	None	None
+JE	"Translation, ribosomal structure and biogenesis"	Amino acid transport and metabolism	None	None
+JHO	"Translation, ribosomal structure and biogenesis"	Coenzyme transport and metabolism	"Posttranslational modification, protein turnover, chaperones"	None
+JLK	"Translation, ribosomal structure and biogenesis"	"Replication, recombination and repair"	Transcription	None
+JM	"Translation, ribosomal structure and biogenesis"	Cell wall/membrane/envelope biogenesis	None	None
+JO	"Translation, ribosomal structure and biogenesis"	"Posttranslational modification, protein turnover, chaperones"	None	None
+JR	"Translation, ribosomal structure and biogenesis"	General function prediction only	None	None
+JT	"Translation, ribosomal structure and biogenesis"	Signal transduction mechanisms	None	None
+JV	"Translation, ribosomal structure and biogenesis"	Defense mechanisms	None	None
+K	Transcription	None	None	None
+KE	Transcription	Amino acid transport and metabolism	None	None
+KG	Transcription	Carbohydrate transport and metabolism	None	None
+KH	Transcription	Coenzyme transport and metabolism	None	None
+KJ	Transcription	"Translation, ribosomal structure and biogenesis"	None	None
+KL	Transcription	"Replication, recombination and repair"	None	None
+KN	Transcription	Cell motility	None	None
+KR	Transcription	General function prediction only	None	None
+KT	Transcription	Signal transduction mechanisms	None	None
+KTN	Transcription	Signal transduction mechanisms	Cell motility	None
+KV	Transcription	Defense mechanisms	None	None
+KX	Transcription	"Mobilome: prophages, transposons"	None	None
+L	"Replication, recombination and repair"	None	None	None
+LK	"Replication, recombination and repair"	Transcription	None	None
+LV	"Replication, recombination and repair"	Defense mechanisms	None	None
+LX	"Replication, recombination and repair"	"Mobilome: prophages, transposons"	None	None
+M	Cell wall/membrane/envelope biogenesis	None	None	None
+MDT	Cell wall/membrane/envelope biogenesis	"Cell cycle control, cell division, chromosome partitioning"	Signal transduction mechanisms	None
+MG	Cell wall/membrane/envelope biogenesis	Carbohydrate transport and metabolism	None	None
+MI	Cell wall/membrane/envelope biogenesis	Lipid transport and metabolism	None	None
+MN	Cell wall/membrane/envelope biogenesis	Cell motility	None	None
+MO	Cell wall/membrane/envelope biogenesis	"Posttranslational modification, protein turnover, chaperones"	None	None
+MR	Cell wall/membrane/envelope biogenesis	General function prediction only	None	None
+MT	Cell wall/membrane/envelope biogenesis	Signal transduction mechanisms	None	None
+MU	Cell wall/membrane/envelope biogenesis	"Intracellular trafficking, secretion, and vesicular transport"	None	None
+MV	Cell wall/membrane/envelope biogenesis	Defense mechanisms	None	None
+MX	Cell wall/membrane/envelope biogenesis	"Mobilome: prophages, transposons"	None	None
+N	Cell motility	None	None	None
+NT	Cell motility	Signal transduction mechanisms	None	None
+NU	Cell motility	"Intracellular trafficking, secretion, and vesicular transport"	None	None
+NUW	Cell motility	"Intracellular trafficking, secretion, and vesicular transport"	Extracellular structures	None
+NW	Cell motility	Extracellular structures	None	None
+O	"Posttranslational modification, protein turnover, chaperones"	None	None	None
+OC	"Posttranslational modification, protein turnover, chaperones"	Energy production and conversion	None	None
+OE	"Posttranslational modification, protein turnover, chaperones"	Amino acid transport and metabolism	None	None
+OI	"Posttranslational modification, protein turnover, chaperones"	Lipid transport and metabolism	None	None
+OJ	"Posttranslational modification, protein turnover, chaperones"	"Translation, ribosomal structure and biogenesis"	None	None
+OK	"Posttranslational modification, protein turnover, chaperones"	Transcription	None	None
+OM	"Posttranslational modification, protein turnover, chaperones"	Cell wall/membrane/envelope biogenesis	None	None
+OP	"Posttranslational modification, protein turnover, chaperones"	Inorganic ion transport and metabolism	None	None
+OT	"Posttranslational modification, protein turnover, chaperones"	Signal transduction mechanisms	None	None
+OU	"Posttranslational modification, protein turnover, chaperones"	"Intracellular trafficking, secretion, and vesicular transport"	None	None
+P	Inorganic ion transport and metabolism	None	None	None
+PH	Inorganic ion transport and metabolism	Coenzyme transport and metabolism	None	None
+PO	Inorganic ion transport and metabolism	"Posttranslational modification, protein turnover, chaperones"	None	None
+PQ	Inorganic ion transport and metabolism	"Secondary metabolites biosynthesis, transport and catabolism"	None	None
+PR	Inorganic ion transport and metabolism	General function prediction only	None	None
+PT	Inorganic ion transport and metabolism	Signal transduction mechanisms	None	None
+PU	Inorganic ion transport and metabolism	"Intracellular trafficking, secretion, and vesicular transport"	None	None
+PV	Inorganic ion transport and metabolism	Defense mechanisms	None	None
+Q	"Secondary metabolites biosynthesis, transport and catabolism"	None	None	None
+QC	"Secondary metabolites biosynthesis, transport and catabolism"	Energy production and conversion	None	None
+QR	"Secondary metabolites biosynthesis, transport and catabolism"	General function prediction only	None	None
+QT	"Secondary metabolites biosynthesis, transport and catabolism"	Signal transduction mechanisms	None	None
+QV	"Secondary metabolites biosynthesis, transport and catabolism"	Defense mechanisms	None	None
+R	General function prediction only	None	None	None
+S	Function unknown	None	None	None
+T	Signal transduction mechanisms	None	None	None
+TE	Signal transduction mechanisms	Amino acid transport and metabolism	None	None
+TG	Signal transduction mechanisms	Carbohydrate transport and metabolism	None	None
+TK	Signal transduction mechanisms	Transcription	None	None
+TR	Signal transduction mechanisms	General function prediction only	None	None
+TU	Signal transduction mechanisms	"Intracellular trafficking, secretion, and vesicular transport"	None	None
+U	"Intracellular trafficking, secretion, and vesicular transport"	None	None	None
+UW	"Intracellular trafficking, secretion, and vesicular transport"	Extracellular structures	None	None
+UXR	"Intracellular trafficking, secretion, and vesicular transport"	"Mobilome: prophages, transposons"	General function prediction only	None
+V	Defense mechanisms	None	None	None
+VI	Defense mechanisms	Lipid transport and metabolism	None	None
+VT	Defense mechanisms	Signal transduction mechanisms	None	None
+W	Extracellular structures	None	None	None
+X	"Mobilome: prophages, transposons"	None	None	None
+XT	"Mobilome: prophages, transposons"	Signal transduction mechanisms	None	None
+Y	Nuclear structure	None	None	None
+Z	Cytoskeleton	None	None	None
